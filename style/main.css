@@ -1,0 +1,182 @@
+body{
+    background-color: #F9F9F9;
+}
+.nav-container{
+    background-color: #6b107d;
+    box-shadow: 0 0 5px #0c0c0c;
+}
+nav{
+    width: 1140px;
+    margin: auto;
+}
+.navbar-nav{
+    float: right !important;
+}
+
+.nav-link{
+    color: #FFF !important;
+}
+.card-text{
+    height: 100px;
+}
+.card-body{
+    background-color: #FFF;
+    border-radius: 0px;
+    border: 0px;
+    margin-bottom: 30px;
+
+}
+.btn-quizz{
+    background-color: #6b107d;
+    color: #FFF;
+    border: 0px;
+    padding: 10px 15px;
+    margin: 10px;
+    font-size: 18px;
+    float: right;
+}
+.form{
+    background-color: #FFF;
+    padding: 30px 20px 45px 20px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+    text-align: center;
+    position: relative;
+    top: 50vh;
+    transform: translateY(-75%);
+}
+.form input{
+    width: 100%;
+    border: 0px;
+    background-color: #FFF;
+    border-radius: 0px;
+    border-bottom: 3px solid #6b107d;
+    padding: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+    outline: none;
+}
+
+.form input[type=submit]{
+    border: 0px;
+    background-color: #6b107d;
+    color: #FFF;
+}
+.form2 input{
+    width: 100%;
+    border: 0px;
+    background-color: #FFF;
+    border-radius: 0px;
+    border-bottom: 3px solid #6b107d;
+    padding: 5px;
+    font-size: 20px;
+    margin-top: 20px;
+    outline: none;
+}
+
+.form2 input[type=submit]{
+    border: 0px;
+    background-color: #6b107d;
+    color: #FFF;
+}
+.account-box{
+    background-color: #FFF;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+    width: 100%;
+    padding: 20px;
+    height: 300px;
+    margin-top: 30px;
+    text-align: center;
+}
+.inside-account-box{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.inside-account-box p{
+    font-size: 18px;
+    margin: 3px;
+}
+.inside-account-box input{
+    text-align: center;
+    border: 0px;
+}
+.inside-account-box form input{
+    text-align: center;
+    border: 0px;
+    width: 100%;
+    border: 0px;
+    background-color: #FFF;
+    border-radius: 0px;
+    border-bottom: 3px solid #6b107d;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 20px;
+    outline: none;
+}
+
+
+.inside-account-box input[type=submit]{
+    border: 0px;
+    background-color: #6b107d;
+    color: #FFF;
+    width: 100%;
+    margin-top: 30px;
+}
+.fa-user-circle{
+    font-size: 110px;
+    color: #6b107d;
+}
+.box{
+    padding: 20px;
+    background-color: #FFF;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+    margin-top: 10px;
+}
+.question{
+    font-weight: 500;
+    font-size: 18px;
+}
+.box:first-child{
+    margin-top: 30px;
+}
+.fas{
+    color: #6b107d;
+    font-size: 22px;
+}
+.question-collapse{
+    margin-left: 20px;
+}
+.btn-clear{
+    border: 0px;
+    background-color: #FFF;
+    outline: none;
+}
+.question-box{
+    padding: 10px 0;
+}
+.btn-outsite{
+    background-color: #6b107d;
+    text-decoration: none;
+    color: #FFF;
+    width: 100%;
+    display: block;
+    text-align:center;
+    padding: 10px;
+    margin-top: 30px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+
+}
+.btn-outsite a{
+    text-decoration: none;
+    color: #FFF !important;
+}
+.quizz-link{
+    background-color: #6b107d;
+    text-decoration: none;
+    color: #FFF;
+    width: 100%;
+    display: block;
+    text-align:center;
+    padding: 10px;
+    margin-top: 30px;
+}
